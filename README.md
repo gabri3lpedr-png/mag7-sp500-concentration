@@ -3,7 +3,6 @@
 How MAG7 concentration shaped S&P 500 returns and risk, 2015 to 2026.
 
 Independent research by Gabriel Pedras, University of St Andrews.
-Full report: [add PDF or link here]
 
 ## Key findings (2 Jan 2015 to 13 Oct 2026)
 
