@@ -1,6 +1,7 @@
 # Seven Stocks, One Index
 
 How MAG7 concentration shaped S&P 500 returns and risk, 2015 to 2026.
+read the full report on the MAG7 project
 
 Independent research by Gabriel Pedras, University of St Andrews.
 
